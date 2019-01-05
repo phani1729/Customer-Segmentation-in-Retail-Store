@@ -1,5 +1,5 @@
 # Customer-Segmentation-in-Retail-Store
-**_Clustering and customer segmentation of Retail Store.**_
+**_Clustering and customer segmentation of Retail Store.**
 
 **Super Market Sale:**
 
